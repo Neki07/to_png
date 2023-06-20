@@ -1,0 +1,6 @@
+Required libraries
+
+streamlit (version : 1.22.0)
+from pillow import Image (version : 9.5.0)
+from io import BytesIO (version : default)
+os (default)
